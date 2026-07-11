@@ -1,0 +1,25 @@
+{
+  "page": {
+    "title": "Выберите, где запустить игру",
+    "subtitle": "Хинкали уже разогрелся. Откройте игру в удобном мессенджере и попробуйте побить рекорд.",
+    "note": "Одна игра — четыре площадки"
+  },
+  "messengers": {
+    "telegram": {
+      "label": "Играть в Telegram",
+      "url": "https://t.me/StarikHinkalichBot"
+    },
+    "max": {
+      "label": "Играть в MAX",
+      "url": "https://max.ru/starikhinkalych_russia"
+    },
+    "vk": {
+      "label": "Играть во ВКонтакте",
+      "url": "https://vk.ru/app54505687"
+    },
+    "ok": {
+      "label": "Играть в Одноклассниках",
+      "url": "https://ok.ru/app/512005121410"
+    }
+  }
+}
